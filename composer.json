@@ -1,1 +1,11 @@
-
+{
+    "name": "cloudytechi/cloud",
+    "type": "class",
+    "description": "Join the best Cloud Computing Training Course.",
+    "keywords": ["cloud computing", "training course", "cloud course", "cloud computing certification"],
+    "homepage": "https://github.com/cloudytechi/cloud",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
